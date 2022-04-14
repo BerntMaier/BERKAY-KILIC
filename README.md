@@ -1,5 +1,5 @@
-# BERKAY-KILIC
-YTU RACING PNEUMATIC PCB
+# YTU RACING PNEUMATIC PCB
+
 Hello everyone! In this article, we will talk about the pneumatic PCB  we designed for our combustion vehicle YTR08C by YTU Racing in the Formula Student competition, the world's most prestigious undergraduate engineering competition, attended by university students from all over the world who are interested in motor racing
 [![](https://raw.githubusercontent.com/BerntMaier/BERKAY-KILIC/main/20220408_134659.jpg)](https://raw.githubusercontent.com/BerntMaier/BERKAY-KILIC/main/20220408_134659.jpg)
 
